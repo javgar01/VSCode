@@ -1,0 +1,10 @@
+<xml>
+    <cine>
+        <pelicula categoria="">
+            <titulo idioma=""></titulo>
+            <director></director>
+            <estreno></estreno>
+            <reparto></reparto>
+        </pelicula>
+    </cine>
+</xml>
